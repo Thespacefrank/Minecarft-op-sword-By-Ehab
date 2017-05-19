@@ -1,2 +1,2 @@
 # Minecarft-op-sword-By-Ehab
-Op sword
+/give @p diamond_sword 1 0 {display:{Name:"The Ehab sword",Lore:["The best EVER"]},AttributeModifiers:[{AttributeName:"generic.maxHealth",Name:"generic.maxHealth",Amount:20,Operation:0,UUIDMost:65020,UUIDLeast:786373},{AttributeName:"generic.followRange",Name:"generic.followRange",Amount:32,Operation:0,UUIDMost:23204,UUIDLeast:989806},{AttributeName:"generic.knockbackResistance",Name:"generic.knockbackResistance",Amount:0,Operation:0,UUIDMost:90398,UUIDLeast:65375},{AttributeName:"generic.attackDamage",Name:"generic.attackDamage",Amount:10000,Operation:0,UUIDMost:97121,UUIDLeast:771922}],ench:[{id:16,lvl:100},{id:19,lvl:30},{id:20,lvl:100},{id:34,lvl:100},{id:50,lvl:100}],Unbreakable:1}
